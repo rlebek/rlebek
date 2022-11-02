@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Compare thousands of cheap flights and find the best deals on airline tickets and hotels. [McFlight.com](https://www.mcflight.com) finds the cheapest flights and hotels online.
+
 <!--
 **rlebek/rlebek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
